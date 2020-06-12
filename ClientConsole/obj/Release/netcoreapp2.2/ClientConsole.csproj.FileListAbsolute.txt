@@ -1,0 +1,11 @@
+C:\Users\An45ur1m80r\source\repos\Zadatak\ClientConsole\bin\Release\netcoreapp2.2\ClientConsole.deps.json
+C:\Users\An45ur1m80r\source\repos\Zadatak\ClientConsole\bin\Release\netcoreapp2.2\ClientConsole.runtimeconfig.json
+C:\Users\An45ur1m80r\source\repos\Zadatak\ClientConsole\bin\Release\netcoreapp2.2\ClientConsole.runtimeconfig.dev.json
+C:\Users\An45ur1m80r\source\repos\Zadatak\ClientConsole\bin\Release\netcoreapp2.2\ClientConsole.dll
+C:\Users\An45ur1m80r\source\repos\Zadatak\ClientConsole\bin\Release\netcoreapp2.2\ClientConsole.pdb
+C:\Users\An45ur1m80r\source\repos\Zadatak\ClientConsole\obj\Release\netcoreapp2.2\ClientConsole.csprojAssemblyReference.cache
+C:\Users\An45ur1m80r\source\repos\Zadatak\ClientConsole\obj\Release\netcoreapp2.2\ClientConsole.csproj.CoreCompileInputs.cache
+C:\Users\An45ur1m80r\source\repos\Zadatak\ClientConsole\obj\Release\netcoreapp2.2\ClientConsole.AssemblyInfoInputs.cache
+C:\Users\An45ur1m80r\source\repos\Zadatak\ClientConsole\obj\Release\netcoreapp2.2\ClientConsole.AssemblyInfo.cs
+C:\Users\An45ur1m80r\source\repos\Zadatak\ClientConsole\obj\Release\netcoreapp2.2\ClientConsole.dll
+C:\Users\An45ur1m80r\source\repos\Zadatak\ClientConsole\obj\Release\netcoreapp2.2\ClientConsole.pdb
